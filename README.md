@@ -1,4 +1,6 @@
 # CMSC124-LOLCODE-Interpreter
+# AUTHOR: FRANCIS E. BEJOSANO
+# DATE: 08/11/2022
 
 ## Dependencies Needed
 1. Python
