@@ -1,15 +1,27 @@
-# CMSC124-LOLCODE-Interpreter
 # AUTHOR: FRANCIS E. BEJOSANO
 # DATE: 08/11/2022
 
-## Dependencies Needed
-1. Python
-- Download the Python Installer appropriate for your os at https://www.python.org/downloads/
-- Run the Executable Installer
-- Add Python to environmental variables
-- To confirm installation, go to the command prompt and enter "python -v"
+# LOL CODE Interpreter
 
-Guide Link: https://www.digitalocean.com/community/tutorials/install-python-windows-10
+This application is a LOL CODE interpreter with a graphical user interface built using Python and Tkinter. It provides functionalities to open, edit, save, and execute LOL CODE files, displaying lexemes, symbol tables, and execution results.
+
+## Features
+
+- Open `.lol` files for editing and execution.
+- Tokenize and parse LOL CODE syntax.
+- Display lexemes and symbol tables.
+- Interactive input field for user input during code execution.
+
+## Dependencies
+
+To run this application, you will need the following dependencies:
+
+1. **Python 3.x** - The interpreter is developed for Python 3.x. Ensure Python is installed by running:
+   ```bash
+   python --version
+
+
+### Note: Uses Tkinter (Python GUI Library) for the UI
 
 ## Parts of the GUI and its uses
 ![finished_app1](gui_parts.png)
